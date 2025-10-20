@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NJIT-CS450-Generate-Word-Cloud/static/css/main.26fa45b9.css",
+    "main.js": "/NJIT-CS450-Generate-Word-Cloud/static/js/main.5c57a1fd.js",
+    "static/js/453.4fde73f0.chunk.js": "/NJIT-CS450-Generate-Word-Cloud/static/js/453.4fde73f0.chunk.js",
+    "index.html": "/NJIT-CS450-Generate-Word-Cloud/index.html",
+    "main.26fa45b9.css.map": "/NJIT-CS450-Generate-Word-Cloud/static/css/main.26fa45b9.css.map",
+    "main.5c57a1fd.js.map": "/NJIT-CS450-Generate-Word-Cloud/static/js/main.5c57a1fd.js.map",
+    "453.4fde73f0.chunk.js.map": "/NJIT-CS450-Generate-Word-Cloud/static/js/453.4fde73f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26fa45b9.css",
+    "static/js/main.5c57a1fd.js"
+  ]
+}
